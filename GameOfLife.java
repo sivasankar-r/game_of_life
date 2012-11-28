@@ -4,7 +4,12 @@
 package com.avis.gol.main;
 
 import java.util.Scanner;
-
+/**
+ * Game of life
+ * 
+ * @author Shivi
+ *
+ */
 public class GameOfLife {
 	static int univSize;
 	int[] universe;
